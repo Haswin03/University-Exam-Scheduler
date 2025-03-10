@@ -56,3 +56,4 @@ The project utilizes the following techniques:
 Scheduling and planning are common challenges for universities, colleges, and schools. Generating a perfect timetable that satisfies all constraints is difficult. This project aims to minimize the conflicts in the timetable and reduce the overall cost of resources used.
 # University-Exam-Scheduler
 # University-Exam-Scheduler
+# University-Exam-Scheduler
